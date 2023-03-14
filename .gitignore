@@ -41,3 +41,6 @@ mongo-data
 /postgres-inventory/
 /postgres-order/
 /grafana/
+/inventory-service/target/
+/order-service/target/
+/.idea/
