@@ -44,3 +44,5 @@ mongo-data
 /inventory-service/target/
 /order-service/target/
 /.idea/
+/discovery-server/target/classes/com/shop/discoveryserver/DiscoveryServerApplication.class
+/discovery-server/target/classes/application.properties
