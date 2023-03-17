@@ -46,3 +46,5 @@ mongo-data
 /.idea/
 /discovery-server/target/classes/com/shop/discoveryserver/DiscoveryServerApplication.class
 /discovery-server/target/classes/application.properties
+/api-gateway/target/classes/com/shop/apigateway/ApiGatewayApplication.class
+/api-gateway/target/classes/application.properties
