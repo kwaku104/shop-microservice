@@ -48,3 +48,5 @@ mongo-data
 /discovery-server/target/classes/application.properties
 /api-gateway/target/classes/com/shop/apigateway/ApiGatewayApplication.class
 /api-gateway/target/classes/application.properties
+/api-gateway/target/classes/com/shop/apigateway/config/SecurityConfig.class
+/discovery-server/target/classes/com/shop/discoveryserver/config/WebSecurityConfig.class
