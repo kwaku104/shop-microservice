@@ -51,3 +51,6 @@ mongo-data
 /api-gateway/target/classes/application.properties
 /api-gateway/target/classes/com/shop/apigateway/config/SecurityConfig.class
 /discovery-server/target/classes/com/shop/discoveryserver/config/WebSecurityConfig.class
+/notification-service/target/classes/com/shop/notificationservice/OrderPlacedEvent.class
+/notification-service/target/classes/com/shop/notificationservice/NotificationServiceApplication.class
+/notification-service/target/classes/application.properties
